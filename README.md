@@ -1,4 +1,4 @@
-# Cryptocurrency Price Monitoring Application
+# CryptoX - Cryptocurrency Price Monitoring Application
 
 This is a full-stack web application developed to monitor real-time changes in cryptocurrency prices. It provides a user-friendly interface with live updates and incorporates TradingView charts to provide detailed technical analysis of the cryptocurrency market. The application is built using Node.js for the backend, which serves a REST API, and React for the frontend.
 
